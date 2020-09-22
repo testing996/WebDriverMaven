@@ -1,0 +1,7 @@
+INFO    2020-08-06 13:32:47,999 [main] testpackages.Practice15  - OR Properties loaded
+INFO    2020-08-06 13:32:48,022 [main] testpackages.Practice15  - Config Properties loaded
+INFO    2020-08-06 13:32:57,166 [main] testpackages.Practice15  - Chrome Browser launched!!! 
+INFO    2020-08-06 13:33:01,699 [main] testpackages.Practice15  - Navigated to: http://www.gmail.com
+INFO    2020-08-06 13:33:04,400 [main] testpackages.Practice15  - Typing in an Elementusername_IDenterd the value as:trainer@way2automation.com
+INFO    2020-08-06 13:33:04,607 [main] testpackages.Practice15  - Clicking on an Element:nextBtn_XPATH
+INFO    2020-08-06 13:33:05,932 [main] testpackages.Practice15  - Test execution completed!!
